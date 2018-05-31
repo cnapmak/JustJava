@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Aleksey\\Desktop\\New folder\\JustJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk-rUA\\values-uk-rUA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Aleksey\\Desktop\\New folder\\JustJava\\app\\src\\main\\res\\values-uk-rUA\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,5,9,8,3,4,10,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,297,196,392,344,105,150,436,241",
+                        "endColumns": "46,45,43,42,46,43,44,43,54",
+                        "endOffsets": "99,338,235,430,386,144,190,475,291"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,148,192,235,282,326,371,415",
+                        "endColumns": "46,45,43,42,46,43,44,43,54",
+                        "endOffsets": "97,143,187,230,277,321,366,410,465"
+                    }
+                }
+            ]
+        }
+    ]
+}
